@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EventLine</string>
+    <string name="title_activity_event">EventActivity</string>
+</resources>
