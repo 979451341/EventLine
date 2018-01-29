@@ -24,5 +24,6 @@ EventLine.getInstance().remove(this);
     
     
  
-    
+ 可以看我的博客总共四篇详细的讲解我如何写这个框架的
+ http://blog.csdn.net/z979451341/article/details/79176202
     
